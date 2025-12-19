@@ -1,6 +1,4 @@
-# Supporting & Contrary Sources
-
-# Support
+# Evidence
 
 ## I. Mathematics
 
@@ -51,6 +49,3 @@ Idea: Published success and secrecy of methods suggests it's possible to obtain 
 
 Notes:
   - While cybersecurity appears focused on discrete mathematics where implementing a system as imagined would be done with finite state machines (FSM), RenTec's Jim Simons' research on high dimension, geometric manifolds suggest use of stochastic calculus which would shift to using markov chains and hidden markov chains with Beysian updating. This is largely inferred need to find more evidence.
-
-
-# Counterevidence (Separate)

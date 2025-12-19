@@ -8,12 +8,10 @@ Working across various fields, I’ve seen firsthand how central high‑quality 
 - Computer Science: https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/
 - Discrete Mathematics: https://www.ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
 
+- Operating Systems: https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
+
 
 ### General
 - Google Foundations of Cybersecurity
 - General Assembly Software Engineering
 - AcadGild Data Science
-
-
-
-
