@@ -62,10 +62,10 @@ Notes:
 6. Bibliography
 - [] TODO: update with additional sources
 
-Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. (Justifies the goal of gaining from shocks).
+Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder.
 
-Hubbard, D. W. (2016). How to Measure Anything in Cybersecurity Risk. (Provides the statistical basis for quantification).
+Hubbard, D. W. (2016). How to Measure Anything in Cybersecurity Risk.
 
-Akerlof, G. A. (1970). The Market for "Lemons". (Explains the information asymmetry we are solving).
+Akerlof, G. A. (1970). The Market for "Lemons".
 
-Armstrong, J. (2003). Making Reliable Distributed Systems in the Presence of Software Errors. (The basis for the Elixir/OTP fault-tolerance layer).
+Armstrong, J. (2003). Making Reliable Distributed Systems in the Presence of Software Errors.
